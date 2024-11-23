@@ -1,0 +1,29 @@
+Start testing: Nov 23 22:41 MSK
+----------------------------------------------------------
+1/1 Testing: lab3_test
+1/1 Test: lab3_test
+Command: "/mnt/c/Users/Max/Desktop/osi/jlabs/labs-osi-floryajulya/build/tests/lab3_test"
+Directory: /mnt/c/Users/Max/Desktop/osi/jlabs/labs-osi-floryajulya/build/tests
+"lab3_test" start time: Nov 23 22:41 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Max/Desktop/osi/jlabs/labs-osi-floryajulya/build/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Lab1Test
+[ RUN      ] Lab1Test.CorrectSum
+[       OK ] Lab1Test.CorrectSum (0 ms)
+[----------] 1 test from Lab1Test (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"lab3_test" end time: Nov 23 22:41 MSK
+"lab3_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 23 22:41 MSK

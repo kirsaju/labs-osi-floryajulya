@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/lab2test.dir/lab2test.cpp.o CMakeFiles/lab2test.dir/__/lab2/src/convolutionMatrix.cpp.o -o lab2test  ../lib/libgtest_main.a ../lib/libgtest.a 
