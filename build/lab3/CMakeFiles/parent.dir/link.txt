@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wno-missing-field-initializers CMakeFiles/parent.dir/src/parent.cpp.o CMakeFiles/parent.dir/main.cpp.o -o parent 

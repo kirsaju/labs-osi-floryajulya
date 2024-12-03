@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wno-missing-field-initializers CMakeFiles/lab2.dir/main.cpp.o CMakeFiles/lab2.dir/src/convolutionMatrix.cpp.o -o lab2 
